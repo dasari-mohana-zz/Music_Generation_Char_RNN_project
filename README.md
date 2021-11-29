@@ -13,7 +13,7 @@ Generally, Music is represented in 4 types:
 
 4. mp3 format (sound)
 
-Here I am using abc-notion of Music as it is easy to train a RNN model on top of character sequences
+#### In this project, I am using abc-notion of Music as it is easy to train a RNN model on top of character sequences
 
 ## Requirements
 
