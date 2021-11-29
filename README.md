@@ -41,6 +41,7 @@ data --> Input data in abc-notation form and Char_to_index file
 
 output --> Training Data log file with detailed info of Model Architecture and training loss, accuracy at every batch and epochs
 
+Visualization --> A notebook with Visualizing Training loss and Accuracy over number of Epochs
 
 ## Usage
 
